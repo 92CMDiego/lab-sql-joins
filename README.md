@@ -54,6 +54,7 @@ Write SQL queries to perform the following tasks using the Sakila database:
 5.  Identify the film categories with the longest average running time.
 6.  Display the top 10 most frequently rented movies in descending order.
 7. Determine if "Academy Dinosaur" can be rented from Store 1.
+8. List of ALL film titles and if they are available in inventory.
 
 Here are some tips to help you successfully complete the lab:
 
